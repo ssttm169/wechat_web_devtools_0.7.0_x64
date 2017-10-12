@@ -10,7 +10,7 @@
 
 打开工具之后, 打开微信，扫码登陆
 <div align=center>
-![扫码登陆](1.png)
+![扫码登陆](http://www.itomtan.com/2017/09/27/how-to-use-wechat-debug/1.png)
 </div>
 
 
