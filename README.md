@@ -10,31 +10,31 @@
 
 打开工具之后, 打开微信，扫码登陆
 
-<div align=center>
+
 ![image](http://www.itomtan.com/2017/09/27/how-to-use-wechat-debug/1.png)
-</div>
+
 
 
 #### 点击移动调试
 
 登录成功之后，点击移动调试，按照里边说明所示，
-<div align=center>
+
 ![image](http://www.itomtan.com/2017/09/27/how-to-use-wechat-debug/2.png)
-</div>
+
 
 
 #### 设置wifi的代理
-<div align=center>
+
 ![image](http://www.itomtan.com/2017/09/27/how-to-use-wechat-debug/3.png)
-</div>
+
 
 
 #### 开始调试
 
 手机设置成功之后，点击 开始调试
-<div align=center>
+
 ![image](http://www.itomtan.com/2017/09/27/how-to-use-wechat-debug/4.png)
-</div>
+
 
 
 
